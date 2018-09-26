@@ -6,7 +6,8 @@ Description:
     Each phone number consists of 10 digits, where all of them starts with '09'.
 The third and forth digits indicate which telecom company it belongs to. Below
 are some analysis of how likely it is to find an actually-existing number in a
-particular 'Range of Prefix' (the 3rd and 4th digits).
+particular 'Range of Prefix' (the 3rd and 4th digits). Both 'Top-4-million-phonenumbers'
+and 'All-71-million-phonenumbers' files are sorted with the probability.
 
 
       MarketShare(2018)  #Prefixes  MarketShare Per Prefix
