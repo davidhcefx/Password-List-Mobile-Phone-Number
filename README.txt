@@ -56,8 +56,8 @@ APTG: 0906*, 07, 77, 80, 82, 85
 
 
 All Prefixes: (71)
-  (Note that some of them are shared among different companies. Those prefixes
-  have the highest probabilities of finding a real number.)
+    (Note that some of them are shared among different companies. Those prefixes
+have the highest probabilities of finding a real number.)
 
 05, 10, 11, 12, 19, 21, 28, 32, 33, 34, 37, 63, 65, 66(3), 72, 74, 75, 78, 84, 88
 00, 03, 13, 15, 16, 17, 25, 26, 27, 30, 31(2), 36, 38, 54, 55, 60(2), 62, 67, 68, 76, 81, 89
