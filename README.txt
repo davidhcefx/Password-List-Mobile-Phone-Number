@@ -1,22 +1,33 @@
-===============================================================
-======== Mobile Phone Number Permutation List (Taiwan) ========
-===============================================================
+===============================================================================
+================ Mobile Phone Number Permutation List (Taiwan) ================
+===============================================================================
 
 DISCLAIMER:
-    All information available on this repository are for legal purpose only. Use these at your own discretion, the repository owner cannot be held responsible for any damages caused. Usage of all tools on this site for attacking targets without prior mutual consent is illegal. It is the end user’s responsibility to obey all applicable local, state and federal laws. We assume no liability and are not responsible for any misuse or damage caused by this site.
+    All information available on this repository are for legal purpose only. Use
+these at your own discretion, the repository owner cannot be held responsible for
+any damages caused. Usage of all tools on this site for attacking targets without
+prior mutual consent is illegal. It is the end user’s responsibility to obey all
+applicable local, state and federal laws. We assume no liability and are not
+responsible for any misuse or damage caused by this site.
 
 DESCRIPTION:
-    There are plenty of users who chose to use a weak password as their Unix password, Wifi pre-shared key, Web account, etc. The password lists shared here can be used as a source to test whether a user has set up a weak password or not. Each mobile phone numbers in Taiwan are consisted of 10 digits; The first two digits are always '09', while the third and forth digits indicate which telecom company it belongs to. Below are some analysis of how likely it is to find an actually-existing number in a
-particular 'Range of Prefix' (the 3rd and 4th digits). Both 'Top-4-million-phonenumbers'
-and 'All-71-million-phonenumbers' files are sorted with the probability.
+    There are plenty of users who chose to use a weak password as their Unix
+password, Wifi pre-shared key, Web account, etc. The password lists shared here
+can be used as a source to test whether a user has set up a weak password or not.
+    Each mobile phone numbers in Taiwan are consisted of 10 digits: The first two
+digits are always '09', while the third and forth digits indicate which telecom
+company it belongs to. Below are some analysis of how likely it is to find an
+actually-existing phone number given a specific prefix (the first four digits).
+Both the Top-4-million-phonenumbers.rar and the All-71-million-phonenumbers.rar
+files are sorted according to this probability.
 
 
-      MarketShare(2018)  #Prefixes  MarketShare Per Prefix
-Emome:        35 %       20         1.75 %
-FETnet:       24 %       23         1.04 %
-TaiwanMobile: 24 %       23         1.04 %
-TStar:        8 %        4          2.00 %
-APTG:         8 %        6          1.33 %
+Company      MarketShare(2018)  # of prefixes  MarketShare per prefix
+Emome        35 %               20             1.75 %
+FETnet       24 %               23             1.04 %
+TaiwanMobile 24 %               23             1.04 %
+TStar        8 %                4              2.00 %
+APTG         8 %                6              1.33 %
 
 
 Emome:
